@@ -1,0 +1,59 @@
+.outerbox {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 47px;
+}
+
+div {
+    justify-content: center;
+    padding: 100px;
+    padding-left: 300px;
+}
+
+form {
+    color: white;
+    padding: 20px;
+}
+
+.inputbox{
+    width: 500px;
+}
+
+input {
+    background-color: black;
+    font-weight: 100;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: white;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+label {
+    font-size: 14px;
+    line-height: 19px;
+}
+
+section {
+
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: white;
+}
+
+::placeholder {
+    color: white;
+}
+
+button {
+    width: 126px;
+    height: 28px;
+    background: #FFFFFF;
+}
